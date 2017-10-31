@@ -23,6 +23,7 @@
  | [sachincool]() | <> | <> | <> | <> | <> |
  | [ms10398]() | <> | <> | <> | <> | <> |
  | [Ajit Jain](https://github.com/ajit-999) | IT student | Java | B. Tech. | 7 | 2nd |
+ | [Alok Rajasukumaran](https://github.com/alokraj68) | [My profile](http://alokraj68.in) | FULL STACK WEB - MOBILE - AI - DESKTOP DEVELOPER / AI ARCHITECT / REVERSE ENGINEER / UI - UX LOVER / SPEAKER / TEACHER / GEEK. | Did not complete my engineering :p | 3| 4th |
  
 
 
